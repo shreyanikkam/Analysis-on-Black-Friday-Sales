@@ -25,7 +25,7 @@ Implementation:
 
 We imported the seaborn, IPython and jinja2 package to run the code. 
 
-*Please check the BlackFriday_Results.doc*
+*Please check the BlackFriday_Results.docx*
 
 RMSE around 3236.14 mean of the target value based on Product_ID.
 
