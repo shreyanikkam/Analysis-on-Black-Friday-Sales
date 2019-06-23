@@ -1,6 +1,11 @@
 # Analysis-on-Black-Friday-Sales
 In this project, we determine the customer purchase behavior against different products. This analysis would help stores find targeted customers to increase their sales and purchases at a larger scale.
 
+LINK TO DATASET:
+
+https://drive.google.com/open?id=1IPcOuabwyZh_Tv0mtz-C6EVioEF1J3B8
+
+
 Characteristics of Dataset:
 1. Dataset of 550 000 observations about the black Friday in a retail store.
 2. It has 550k rows x 12 columns which is available in the .csv format
@@ -15,6 +20,15 @@ Problem Defintion:
 3. This will influence the marketing strategies and profit by concentrating on advertising their products to their targeted customer at larger scale.
 4. How are transactions distributed over different age groups, occupations and cities.
 5. How does marital status and years of living in the city affect number and amount of purchases?
+
+Implementation:
+
+
+We imported the seaborn, IPython and jinja2 package to run the code. The snapshots below shows the implementation of the data mining techniques used in our project:
+
+1.	EDA
+The analysis in the below graphical representation shows the amount of purchases made by men and women, category of occupations and age groups during the Black Friday Sales. 
+
 
 RMSE around 3236.14 mean of the target value based on Product_ID.
 
