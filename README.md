@@ -7,5 +7,19 @@ Characteristics of Dataset:
 3. It contains different kinds of variables either numerical or categorical. 
 4. It contains missing values.
 
+Problem Defintion:
+1.During the Black Friday sales, finding the targeted customers would be a greatest advantage to increase the sales and purchases. 
+2. By analysis, we can find the specific group of consumers at which a company aims its products and services which gives you target customers who are most likely to buy from you.
+3. This will influence the marketing strategies and profit by concentrating on advertising their products to their targeted customer at larger scale.
+4. How are transactions distributed over different age groups, occupations and cities.
+5. How does marital status and years of living in the city affect number and amount of purchases?
+
+RMSE around 3236.14 mean of the target value based on Product_ID.
+
+Conclusion:
+We found the targeted customers where the customers having occupation category (0,4,7); age group ranging 26-35, staying in City B, and for 1year, who are single make more purchases than the average. In this project we performed the exploratory data analysis and Random Forest Regression to predict purchase amount based on user id, product id and other features available in dataset. Our model had RMSE around 3236.14 mean of the target value based on Product_ID. The customers are clustered using K-Means algorithm with 3 clusters and a silhouette score of 0.09.
+
+
+
 
 
