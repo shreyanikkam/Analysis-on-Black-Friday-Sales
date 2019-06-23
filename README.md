@@ -23,14 +23,9 @@ Problem Defintion:
 
 Implementation:
 
+We imported the seaborn, IPython and jinja2 package to run the code. 
 
-We imported the seaborn, IPython and jinja2 package to run the code. The snapshots below shows the implementation of the data mining techniques used in our project:
-
-1.	EDA
-The analysis in the below graphical representation shows the amount of purchases made by men and women, category of occupations and age groups during the Black Friday Sales. 
-
-
-
+Please check the BlackFriday_Results.doc
 
 RMSE around 3236.14 mean of the target value based on Product_ID.
 
