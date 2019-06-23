@@ -30,6 +30,8 @@ We imported the seaborn, IPython and jinja2 package to run the code. The snapsho
 The analysis in the below graphical representation shows the amount of purchases made by men and women, category of occupations and age groups during the Black Friday Sales. 
 
 
+
+
 RMSE around 3236.14 mean of the target value based on Product_ID.
 
 Conclusion:
